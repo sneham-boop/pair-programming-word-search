@@ -8,7 +8,7 @@ const wordSearch = (letters, word) => {
     if (l.includes(word)) return true;
   }
   
-  console.log(verticalJoin);
+
   return false;
 };
 
